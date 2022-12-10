@@ -1,0 +1,4 @@
+12/09/2022 20:41:09: Problem with Packets: Sent or Receiver too large ar (r,s) 4, 4
+12/09/2022 20:41:46: Problem with 172.26.212.2 : took to long to trace at times: 23, 52, 60 
+12/09/2022 20:41:46: Problem with Bytes: Sent or Receiver too large ar (r,s) 1078623186, 3051981348
+12/09/2022 20:41:46: Problem with Unicast packets: Sent or Receiver too large ar (r,s) 14606086, 11160300
